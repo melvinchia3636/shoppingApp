@@ -1,10 +1,10 @@
 <center><h1 align="center">🛍️ Shopping App</h1></center>
 
-<p align="center">Your convenient online grocery store for fresh produce.</p>
+<p align="center">Your convenient online grocery store for random products.</p>
 
 ## 👀 Overview
 
-The Shopping App simplifies your grocery shopping experience, bringing fresh produce directly to your doorstep. Our intuitive interface and streamlined checkout process make it effortless to browse, select, and order your favorite fruits, vegetables, and more.
+The Shopping App simplifies your grocery shopping experience, bringing fresh produce directly to your doorstep. Our intuitive interface and streamlined checkout process make it effortless to browse, select, and order your favorite goods.
 
 All the texts above are just AI-generated fancy bullshit. Feel free to ignore them.
 
